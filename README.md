@@ -7,3 +7,4 @@ Este repositorio fue creado para realizar la práctica de GitHub.
 - Publicación en GitHub
 - Integración con Visual Studio Code
 - Invitación de colaborador mlpcumg
+Cambio realizado directamente desde GitHub web para probar pull.
